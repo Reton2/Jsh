@@ -106,3 +106,6 @@ syntax = **rm [options] [-r directories] filenames**
 This function deleted both dirs and files. It recursively deletes dirs if the -r is used, else it leaves them alone.
 -v can be used to get information about the proccess. '--' can be used to mark the end of options so there is no
 conflict with files or dirs with names starting with '-'.# Jsh
+
+
+_This project has been developed in collaboration with Kaan Turan and Govind Balla from UCl as a 2nd year project_
